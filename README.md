@@ -1,4 +1,4 @@
-# Hi, I'm Alireza 👋
+# I'm Alireza 
 
 I'm an aspiring DevOps Engineer documenting my daily journey from the ground up. 
 Focusing on infrastructure, containerization, automation, and Linux systems.
