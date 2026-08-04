@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alireza 👋
 
-<!--
-**alirezajafarlou/alirezajafarlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring DevOps Engineer documenting my daily journey from the ground up. 
+Focusing on infrastructure, containerization, automation, and Linux systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm Working On
+- **Current Focus:** Docker, Container Orchestration & Linux Systems
+- **Tech Stack Learning:** Java SE, Bash, Docker / Docker Compose, Debian/Linux
+- **Public Log:** Documenting technical notes, bugs, and setups step-by-step
+
+---
+
+### 📬 Connect
+- **Telegram (Persian Log):** [https://t.me/aljdev]
+- **LinkedIn:** [will be added soon]
+
+> *"Building in public: Documenting every bug, fix, and deployment step along the way."*
